@@ -47,7 +47,7 @@ Welcome to our e-commerce platform, where seamless integration of Django and Rea
 
 ## Contributing:
 
-We welcome contributions from the community to enhance this e-commerce platform further. Whether it's bug fixes, feature enhancements, or documentation improvements, your contributions are valuable to us. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions from the community to enhance this e-commerce platform further. Whether it's bug fixes, feature enhancements, or documentation improvements, your contributions are valuable to us. 
 
 ## Contact Us:
 
